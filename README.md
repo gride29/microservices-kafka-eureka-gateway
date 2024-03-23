@@ -2,7 +2,8 @@
 
 This project demonstrates a comprehensive microservices architecture utilizing Spring Boot, Docker, and a suite of supporting 
 technologies to create a resilient, scalable, and secure application ecosystem. The architecture includes service discovery, 
-configuration management, authentication, message brokering, and different data storage solutions, making it an ideal blueprint for enterprise-grade applications.
+configuration management, authentication, message brokering, and different data storage solutions, making it a good blueprint 
+for enterprise-grade applications.
 
 ## Core Technologies
 
