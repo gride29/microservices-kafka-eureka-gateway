@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS 'inventory-service';
+CREATE ROLE gride LOGIN PASSWORD 'password';
+ALTER ROLE gride WITH SUPERUSER;
